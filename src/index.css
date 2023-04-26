@@ -1,0 +1,17 @@
+/* @font-face{
+  font-family: 'Sohne';
+  src: url('../fonts/Sohne-Buch.otf'),
+  url('../fonts/sohne-buch-webfont.woff') format('woff'),
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Sohne', sans-serif;
+}
+
+/* chart: {
+  background: '#fff'
+} */
